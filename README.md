@@ -1,0 +1,1 @@
+# BuscaCognitiva-AzureIA-ExtraindoDadosRelevantes
